@@ -1,6 +1,6 @@
 //Configure accordingly for your machine.
 layerHeight 0.3 mm
-filD 1.75 mm		         //filament diameter, set your own.
+filD 1.715 mm		         //filament diameter, set your own.
 nozzleD 0.4 mm		       //nozzle diameter, set your own.
 extrusionWidth .55 mm    //Set to about 11/8 nozzleD. Subject to change.
 printTemp 200 C		       //Set for your plastic.
